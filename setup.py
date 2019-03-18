@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/jkroman2/',
+    url='https://github.com/jkroman2/mypackage',
     author='Jason Kannemeyer',
     author_email='vonhitl@gmail.com'
 )
